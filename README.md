@@ -24,12 +24,22 @@ The table below reflects the number of retirement eligible employees by current 
 
 ## Employees Eligible to Participate in a Mentorship Program
 
-The table below reflects the number of team members eligible to participate in the mentorship program by title. Key take-aways are:
+Analysis of the employees eligible to participate in the mentorship program reveal the points:
 
 -	The mentor eligible employees are well distributed across company roles
 -	The number of available mentors does not appear sufficient to cover the number of projected vacancies
 -	This is particularly true in the senior staff area
 -	Pewlett Hackard should consider expanding the criteria to participate in the mentorship program
 
+## Summary of Analysis
+
+1.	As shown in the chart above, Pewlett Hackard may have to replace as many 90,000 team members as the “Silver Tsunami” rolls through the company. Of course, not all who are eligible to retire will take advantage as soon as they are eligible. Pewlett Hackard should begin to survey the list of employees provided through this analysis to determine their intentions and be able to better shape the response and action plan.
+
+2.	Based on the criteria provided, the table below shows how many team members are eligible to participate in the mentorship program.
+
 <img width="223" alt="mentor_titles" src="https://user-images.githubusercontent.com/78807451/120930298-acc8f580-c6ba-11eb-8f44-937fd539f1dc.png">
+
+3.	The number of mentors available using the current criteria will fall short of what is needed to successfully mentor new employees that will fill the vacancies created by the “Silver Tsunami”.  The recommendations listed in mentorship analysis above may help to overcome these problems. The table below shows a comparison by roles of mentors and potential retirees as well as giving an approximate ratio of how many new team members each mentor would be responsible for. This makes it clear that there will need to be adjustments made to the mentorship program if it is to be successful.
+
+<img width="424" alt="Mentor_Ratio" src="https://user-images.githubusercontent.com/78807451/120931550-0c75cf80-c6c0-11eb-8ce5-b9ffdcd9ba6c.png">
 
