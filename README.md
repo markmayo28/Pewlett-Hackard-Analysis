@@ -23,3 +23,13 @@ The table below reflects the number of retirement eligible employees by current 
 <img width="231" alt="retiring_titles" src="https://user-images.githubusercontent.com/78807451/120929353-bea89980-c6b6-11eb-87b4-7d00b5e3eb83.png">
 
 ## Employees Eligible to Participate in a Mentorship Program
+
+The table below reflects the number of team members eligible to participate in the mentorship program by title. Key take-aways are:
+
+-	The mentor eligible employees are well distributed across company roles
+-	The number of available mentors does not appear sufficient to cover the number of projected vacancies
+-	This is particularly true in the senior staff area
+-	Pewlett Hackard should consider expanding the criteria to participate in the mentorship program
+
+<img width="223" alt="mentor_titles" src="https://user-images.githubusercontent.com/78807451/120930298-acc8f580-c6ba-11eb-8f44-937fd539f1dc.png">
+
